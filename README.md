@@ -12,8 +12,6 @@ gunzip proteomes/*.gz
 
 The protein sequences were then placed into a single file ``allprotein.fas``
 ```
-
-
 cat proteomes/*.faa>allprotein.fas
 ```
 
